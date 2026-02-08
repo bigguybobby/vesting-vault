@@ -23,3 +23,7 @@
 ## License
 
 MIT
+
+## Deployment
+
+- **Celo Sepolia**: `0x1127045b3745435A58058Ea9F74fd258f107349E`
